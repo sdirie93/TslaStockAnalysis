@@ -1,0 +1,6 @@
+requests 
+yfinance 
+pandas
+matplotlib.pyplot 
+pyodbc
+sqlalchemy
