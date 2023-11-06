@@ -24,7 +24,7 @@ Ensure you have configured your database credentials correctly in the script bef
 The ETL script outputs a table named 'StockData' in your Azure SQL database.
 
 ## Running the Script
-The main Python script 'ETL_script.py' should be executed in an environment where all dependencies have been installed. Ensure your Azure SQL database is accessible and the credentials in the script are updated accordingly.
+The ETL_script.py should be executed in an environment where all dependencies have been installed. Ensure your Azure SQL database is accessible and the credentials in the script are updated accordingly.
 
 ## Conclusion
 After executing the script, you'll have a set of clean, organized data that can be further analyzed in Power BI to uncover trends and patterns in the stock performance of Tesla and Mercedes over the selected timeframe.
